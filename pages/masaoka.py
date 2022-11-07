@@ -7,7 +7,6 @@ from sklearn.metrics.pairwise import cosine_similarity
 import re
 import time
 import random
-import setting
 from lxml.html._diffcommand import read_file
 from sumy.parsers.plaintext import PlaintextParser
 from sumy.nlp.tokenizers import Tokenizer
